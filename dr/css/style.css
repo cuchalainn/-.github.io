@@ -1,0 +1,25 @@
+@charset "utf-8";
+#wrapper {	/*外框*/
+	margin: auto;   /*版面居中對齊*/
+	width: 900px;	/*寬度設定為900px*/	
+}
+#head {
+	height: 130px;
+	font-family: "標楷體";	/*字形:標楷*/
+	text-align: center;	/*字形:置中*/
+	font-style: italic;	/*字形:斜體*/
+	padding-top: 30px;	/*字形:與上邊距離*/
+	font-weight: bold;	/*字形:粗體*/
+}
+#btn {
+	float: left;
+	width: 150px;
+}
+#content {
+	width: 750px;
+	float: right;
+	height: 700px;
+}
+#Xbox {
+	width: 750px;
+}
